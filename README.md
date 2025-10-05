@@ -1,6 +1,6 @@
+ 👋 Hi there, I’m Rastri! 
 
-
-<!---
-rastri-dey/rastri-dey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🧑‍🎓 I am Robotics Masters student from University of Michigan, Ann Arbor
+* 🌱 I've years of experience working in autonomous driving systems with comprehensive expertise across the autonomy stack: perception, localization, path planning and controls
+* 🔭 Currently working on: Ground-up implementations of ML algorithms implemented from scratch and experimenting using PyTorch, Tensorflow frameworks
+* 📫 You can reach me at rastri@umich.edu or through my [LinkedIn](https://www.linkedin.com/in/rastridey/)
