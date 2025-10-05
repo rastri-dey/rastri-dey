@@ -5,5 +5,5 @@
 * 📫 You can reach me at rastri@umich.edu or through my [LinkedIn](https://www.linkedin.com/in/rastridey/)
 
 📂 Featured Projects <br>
-🔹 [Ground-up Implementations of ML Algorithms](https://github.com/rastri-dey/Ground-up-implementations-ML-algorithms-) <br>
+🔹 Currently working on: [Ground-up Implementations of ML Algorithms](https://github.com/rastri-dey/Ground-up-implementations-ML-algorithms-) <br>
 *A research-oriented repository implementing classic and modern ML algorithms implemented from scratch, using PyTorch and Tensorflow frameworks*
